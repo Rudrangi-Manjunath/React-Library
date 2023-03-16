@@ -21,7 +21,7 @@ export const Heros = () => {
               >
                 Explore top books{" "}
               </a>
-              :
+
               <a className="btn main-color btn-lg text-white" href="#">
                 Sign up
               </a>
